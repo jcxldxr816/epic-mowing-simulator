@@ -1,5 +1,5 @@
 # epic-mowing-simulator
- This is a lawn mowing game I made over the course of a week-long spring break in high school.
+ This is a lawn mowing game I made in Unity over the course of a week-long spring break in high school.
 
  It's nothing fancy, but I enjoyed making it, and I learned a lot.
  
